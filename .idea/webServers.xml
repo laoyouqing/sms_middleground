@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="59ac91f7-4075-4c04-9bf2-7d24f64ed852" name="锐掌Ubuntu" url="http://47.112.126.133">
+        <fileTransfer host="47.112.126.133" port="22" rootFolder="/root/sms_middleground/sms_middleground" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
